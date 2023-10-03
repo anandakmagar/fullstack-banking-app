@@ -4,14 +4,14 @@ This application is live at https://banking-angular-920510b7cbf3.herokuapp.com
 This is a microservices-based application following the microservices architecture. It consists of four microservices: Service Registry, API Gateway, Transaction, and Account. The application provides various API endpoints for managing accounts and transactions.
 
 The application facilitates the following actions:
-   Creating new bank accounts
-   Deleting accounts
-   Changing the account status to CLOSED or ACTIVE
-   Searching for account details
-   Depositing funds into the account
-   Transferring funds between accounts
-   Withdrawing funds from the account
-   Getting the account statement, including transaction details
+   - Creating new bank accounts
+   - Deleting accounts
+   - Changing the account status to CLOSED or ACTIVE
+   - Searching for account details
+   - Depositing funds into the account
+   - Transferring funds between accounts
+   - Withdrawing funds from the account
+   - Getting the account statement, including transaction details
 
 ## Microservices
 ### Service Registry
